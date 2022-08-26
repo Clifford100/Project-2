@@ -3,8 +3,8 @@
 #include<math.h>
 
 #define TITLE "DECIMAL TO RADIX-i converter"
-#define AUTHOR "Nyiko"
-#define YEAR "2022"
+#define AUTHOR "Nyiko Mathebula"
+#define YEAR "26 August 2022"
 
 void print_header(){                            // Prints the header of the program
     printf("***************************");
